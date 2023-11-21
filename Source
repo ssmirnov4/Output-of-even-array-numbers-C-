@@ -6,7 +6,7 @@ int main() {
 
 	setlocale(0, "Rus");//changing the encoding UTF - 8 
 
-	int a, language, mass[100], chet; //size mass
+	int a, language, mass[a], chet; //size mass
 
 	printf("Select language(1- Russian, 2-English)\n ");
 	scanf_s("%d", &language);
