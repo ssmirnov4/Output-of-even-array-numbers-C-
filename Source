@@ -3,7 +3,7 @@
 #include<locale>
 
 int main() {
-
+//debug update 21.11.2023 23:21
 	setlocale(0, "Rus");//changing the encoding UTF - 8 
 
 	int a, language, mass[a], chet; //size mass
